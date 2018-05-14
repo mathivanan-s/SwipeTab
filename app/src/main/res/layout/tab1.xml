@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mathi.swipetab.Tab1">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="title"
+        android:id="@+id/title"
+        android:layout_centerHorizontal="true" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hello"
+        android:id="@+id/body"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="/topic/mathi"
+        android:id="@+id/topic"
+        android:layout_below="@+id/body"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="submit"
+        android:id="@+id/submit"
+        android:layout_below="@+id/topic"
+        android:layout_centerHorizontal="true" />
+
+
+
+</RelativeLayout>

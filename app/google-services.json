@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751592734274",
+    "firebase_url": "https://mora-852df.firebaseio.com",
+    "project_id": "mora-852df",
+    "storage_bucket": "mora-852df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751592734274:android:f7a507e2ee11968a",
+        "android_client_info": {
+          "package_name": "com.example.mathi.swipetab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751592734274-3g7u3fgtc2n9a9a7j2l1gr8cgjgn695r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mathi.swipetab",
+            "certificate_hash": "6157889209479b6c8a9078181da256c3767b347d"
+          }
+        },
+        {
+          "client_id": "751592734274-o7r4f48965cspqe892mjjike9pi0abki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGdNBqnYzBzoBxkqkFeMPLgtYhEJoezZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751592734274-o7r4f48965cspqe892mjjike9pi0abki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
