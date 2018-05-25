@@ -1,0 +1,9 @@
+/* nameEditText.setOnEditorActionListener(new TextView.OnEditorActionListener() {
+            @Override
+            public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
+                if(checkTitleStep(v.getText().toString())){
+                    verticalStepperForm.goToNextStep();
+                    }
+                return false;
+            }
+        });*/
